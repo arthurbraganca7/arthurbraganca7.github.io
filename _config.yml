@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arthur Bragança"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Senior Economist, World Bank"
   location         : "Brasília, Brazil"
   employer         :
