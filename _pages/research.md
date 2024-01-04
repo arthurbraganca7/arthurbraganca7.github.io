@@ -10,7 +10,12 @@ editor_options:
     wrap: 72
 ---
 
-# \# Publications
+/
+/
+
+## Publications
+
+------------------------------------------------------------------------
 
 -   Bragança, A. & Dahis, R. (2022). Cutting Special Interests by the
     Roots: Evidence from Brazil's Amazon. **Journal of Public
@@ -39,7 +44,8 @@ editor_options:
 -   Bragança, A. (2018). The Effects of Crop-to-Beef Prices on
     Deforestation: Evidence from the Tapajós Basin. **Environment and
     Development Economics**, vol. 23(4), pp. 391-412.
-    [Published](https://doi.org/10.1017/S1355770X18000062)[version](https://doi.org/10.1017/S1355770X18000062%7D%7B10.1017/S1355770X18000062).
+    [Published](https://doi.org/10.1017/S1355770X18000062)[
+    version](https://doi.org/10.1017/S1355770X18000062%7D%7B10.1017/S1355770X18000062).
     [Online
     appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1355770X18000062/resource/name/S1355770X18000062sup001.pdf).
 -   Bragança, A. (2018). The Economic Consequences of the Agricultural
@@ -47,7 +53,9 @@ editor_options:
     72, p. 161-185. [Published
     version](https://www.scielo.br/j/rbe/a/stHMjVGVJmrs4JJn3VDYpwH/abstract/?lang=en).
 
-# \# Working Papers
+## Working Papers
+
+------------------------------------------------------------------------
 
 -   Bragança, A., Britto, D., Moura, D., Sampaio, B., Szerman, D.
     (January 2024). Decentralization, Enforcement, and Taxation:
