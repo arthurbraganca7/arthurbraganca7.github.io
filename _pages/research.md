@@ -10,8 +10,6 @@ editor_options:
     wrap: 72
 ---
 
-{% include base_path %}
-
 # Publications
 
 -   Bragança, A. & Dahis, R. (2022). Cutting Special Interests by the
