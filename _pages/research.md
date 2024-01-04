@@ -10,8 +10,7 @@ editor_options:
     wrap: 72
 ---
 
-/
-/
+
 
 ## Publications
 
