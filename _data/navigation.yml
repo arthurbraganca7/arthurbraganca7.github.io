@@ -4,16 +4,10 @@ main:
     url: /about/
 
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Policy"
-    url: /talks/    
+    url: /policy/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Media"
-    url: /markdown/
-    
-  - title: "CV"
-    url: /cv/
+    url: /teaching/
