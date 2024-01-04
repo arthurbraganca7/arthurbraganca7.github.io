@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Policy Papers"
+title: "Policy"
 permalink: /policy/
 author_profile: true
 redirect_from:
@@ -10,7 +10,9 @@ editor_options:
     wrap: 72
 ---
 
-{% include base_path %}
+## Policy Papers
+
+------------------------------------------------------------------------
 
 -   Araújo, R & Bragança, A. (2022). Mining Royalties and Socioeconomic
     Development in the State of Pará. Rio de Janeiro: Climate Policy
@@ -107,7 +109,9 @@ editor_options:
     Solutions. Rio de Janeiro: Climate Policy Initiative.
     [Link](https://www.climatepolicyinitiative.org/publication/high-productivity-agricultural-techniques-in-brazil-adoption-barriers-and-potential-solutions/).
 
-# Op-eds, blogs, etc. (mostly in Portuguese)
+## Op-eds, blogs, etc. (mostly in Portuguese)
+
+------------------------------------------------------------------------
 
 -   Bragança, A., Hanusch, M. (2023). One way to curb land grabbing in
     the Amazon? Steer interest away from land. ***World Bank Blogs.***
