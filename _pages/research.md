@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /reearch
+  - /research
 editor_options: 
   markdown: 
     wrap: 72
