@@ -20,6 +20,7 @@ editor_options:
     version](https://www.sciencedirect.com/science/article/pii/S0047272722001554).
     [Online
     appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0047272722001554-mmc1.pdf).
+    
 -   Bragança, A., Newton, P., *et al* (2022). Extension Services Can
     Promote Pasture Restoration: Evidence from Brazil's Low Carbon
     Agriculture Plan. **Proceedings of the National Academy of
@@ -33,17 +34,20 @@ editor_options:
     Boulder](https://www.colorado.edu/today/2022/03/17/how-cattle-ranchers-brazil-could-help-reduce-carbon-emissions),
     [Veja](https://veja.abril.com.br/agenda-verde/capacitar-pecuaristas-auxilia-no-combate-a-mudanca-do-clima-diz-estudo/)
     (Portuguese)
+    
 -   Assunção, J., Bragança, A. & Hemsley, P. (2019). Geographic
     Heterogeneity and Technology Adoption: Evidence from Brazil. **Land
     Economics**, vol. 95(4), pp. 599-616. [Published
     version](http://le.uwpress.org/content/95/4/599.short). [Online
     appendix](https://uwpress.wisc.edu/journals/pdfs/LE-95-4-08-Assuncao-app.pdf).
+    
 -   Bragança, A. (2018). The Effects of Crop-to-Beef Prices on
     Deforestation: Evidence from the Tapajós Basin. **Environment and
     Development Economics**, vol. 23(4), pp. 391-412.
     [Published](https://doi.org/10.1017/S1355770X18000062)[version](https://doi.org/10.1017/S1355770X18000062%7D%7B10.1017/S1355770X18000062).
     [Online
     appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S1355770X18000062/resource/name/S1355770X18000062sup001.pdf).
+    
 -   Bragança, A. (2018). The Economic Consequences of the Agricultural
     Expansion in Matopiba. **Revista Brasileira de Economia**, vol.
     72, p. 161-185. [Published
