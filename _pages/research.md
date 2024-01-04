@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Publications"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ editor_options:
   markdown: 
     wrap: 72
 ---
-
-# Publications
 
 -   Bragança, A. & Dahis, R. (2022). Cutting Special Interests by the
     Roots: Evidence from Brazil\'s Amazon. **Journal of Public

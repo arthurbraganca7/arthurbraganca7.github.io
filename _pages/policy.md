@@ -130,5 +130,3 @@ editor_options:
 -   Bragança, A. (2021). Agricultura e Desmatamento. ***Nexo Políticas
     Públicas***.
     [Link](https://pp.nexojornal.com.br/pergunte-a-um-pesquisador/2021/04/27/Arthur-Bragan%C3%A7a-agricultura-e-desmatamento).
-
-    # 
