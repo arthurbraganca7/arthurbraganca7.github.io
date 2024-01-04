@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Policy"
+title: "Policy Papers"
 permalink: /policy/
 author_profile: true
 redirect_from:
@@ -11,8 +11,6 @@ editor_options:
 ---
 
 {% include base_path %}
-
-# Policy Papers
 
 -   Araújo, R & Bragança, A. (2022). Mining Royalties and Socioeconomic
     Development in the State of Pará. Rio de Janeiro: Climate Policy

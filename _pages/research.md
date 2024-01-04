@@ -18,9 +18,7 @@ editor_options:
     version](https://www.sciencedirect.com/science/article/pii/S0047272722001554).
     [Online
     appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0047272722001554-mmc1.pdf).
--   Bragança, A., Newton, P., Cohn, A., Assunção, A., Camboim, C., de
-    Faveri, D., Farinelli, B., Perego, V., Tavares, M., Resende, J., de
-    Medeiros, S., & Searchinger, T. (2022). Extension Services Can
+-   Bragança, A., Newton, P., *et al* (2022). Extension Services Can
     Promote Pasture Restoration: Evidence from Brazil\'s Low Carbon
     Agriculture Plan. **Proceedings of the National Academy of
     Sciences**, vol. 119(12). [Published
@@ -60,7 +58,6 @@ editor_options:
     of Transportation Infrastructure on Deforestation in the Amazon: A
     General Equilibrium Approach.
     [PDF](http://arthurbraganca7.github.io/files/Infrastructure_Deforestation_GE.pdf).
-    *Submitted.*
-
+    *Submitted.* \
     Media:
     [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
