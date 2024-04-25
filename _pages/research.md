@@ -14,8 +14,11 @@ editor_options:
 
 ------------------------------------------------------------------------
 
--   Bragança, A., Britto, D., Moura, D., Sampaio, B., Szerman, D.
-    (January 2024). Decentralization, Enforcement, and Taxation:
+-   Borchers, n., Bragança, A., Conte Grand, M.
+    (April 2024). The Long Run Effects of Forest Incentives in Guatemala. *Draft coming soon.*
+
+-   Bragança, A., Britto, D., Fonseca, A., Moura, D., Sampaio, B., Sant'anna, A., Szerman, D.
+    (April 2024). Decentralization, Enforcement, and Taxation:
     Evidence from Rural Land Taxes in Brazil. *Draft coming soon.*
 
 -   Araújo, R, Assunção, J., & Bragança, A. (January 2024). The Effects
