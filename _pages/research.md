@@ -14,14 +14,14 @@ editor_options:
 
 ------------------------------------------------------------------------
 
--   Borchers, n., Bragança, A., Conte Grand, M.
-    (April 2024). The Long Run Effects of Forest Incentives in Guatemala. *Draft coming soon.*
+-   Borchers, N., Bragança, A., Conte Grand, M.
+    The Long Run Effects of Forest Incentives in Guatemala. *Draft coming soon.*
 
 -   Bragança, A., Britto, D., Fonseca, A., Moura, D., Sampaio, B., Sant'anna, A., Szerman, D.
-    (April 2024). Decentralization, Enforcement, and Taxation:
+    Decentralization, Enforcement, and Taxation:
     Evidence from Rural Land Taxes in Brazil. *Draft coming soon.*
 
--   Araújo, R, Assunção, J., & Bragança, A. (January 2024). The Effects
+-   Araújo, R, Assunção, J., & Bragança, A. (May 2024). The Effects
     of Transportation Infrastructure on Deforestation in the Amazon: A
     General Equilibrium Approach.
     [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf).
