@@ -21,11 +21,11 @@ editor_options:
     (April 2024). Decentralization, Enforcement, and Taxation:
     Evidence from Rural Land Taxes in Brazil. *Draft coming soon.*
 
--   Araújo, R, Assunção, J., & Bragança, A. (January 2024). The Effects
+-   Araújo, R, Assunção, J., & Bragança, A. (May 2024). The Effects
     of Transportation Infrastructure on Deforestation in the Amazon: A
     General Equilibrium Approach.
     [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf).
-    *Submitted.*\
+    *R\&R.*\ Journal of Development Economics
     Media:
     [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
     
