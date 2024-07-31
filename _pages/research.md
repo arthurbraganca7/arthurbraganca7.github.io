@@ -23,7 +23,7 @@ editor_options:
     of Transportation Infrastructure on Deforestation in the Amazon: A
     General Equilibrium Approach.
     [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf).
-     *Revise & Resubmit*, **Journal of Development Economics**
+     *Revise & Resubmit*, **Journal of Development Economics** \
     Media:
     [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
     
