@@ -22,7 +22,7 @@ editor_options:
 -   Araújo, R, Assunção, J., & Bragança, A. (May 2024). The Effects
     of Transportation Infrastructure on Deforestation in the Amazon: A
     General Equilibrium Approach.
-     *Revise & Resubmit*, **Journal of Development Economics**, [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
+     *Revise & Resubmit*, **Journal of Development Economics**. [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
     Media:
     [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
     
