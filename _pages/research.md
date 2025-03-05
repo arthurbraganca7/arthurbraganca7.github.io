@@ -18,6 +18,8 @@ editor_options:
 
 -   Bragança, A., Britto, D., Fonseca, A., Moura, D., Sampaio, B., Sant'anna, A., Szerman, D. Decentralization and Land Taxation in Brazil. *Draft coming soon.*
 
+-   Adames, E., Araújo, R., Bragança, A., Costa, F., Gentile, F., Sant'anna, M. (January 2025). Quantifying the Carbon Preserved by Protected Areas in the Amazon *Submitted.*
+
 -   Araújo, R, Assunção, J., & Bragança, A. (May 2024). Transportation Infrastructure and Deforestation in the Amazon.
      *Revise & Resubmit*, **Journal of Development Economics**. [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
     Media:
