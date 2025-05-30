@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior economist at [The World Bank Environment Unit](https://www.worldbank.org/en/topic/environment).
+I am a senior economist at [The World Bank Environment Department](https://www.worldbank.org/en/topic/environment) and an inviter professor at the [Brazilian National School of Public Administration](https://www.enap.gov.br/en/).
 
 Before joining the World Bank, I was a Head of Policy Evaluation at the [Climate Policy Initiative](https://www.climatepolicyinitiative.org/) and a lecturer at [PUC-Rio](https://www.econ.puc-rio.br/).
 
