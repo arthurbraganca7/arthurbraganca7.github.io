@@ -20,14 +20,15 @@ editor_options:
 
 -   Adames, E., Araújo, R., Bragança, A., Costa, F., Gentile, F., Sant'anna, M. (January 2025). Quantifying the Carbon Preserved by Protected Areas in the Amazon *Submitted.*
 
--   Araújo, R, Assunção, J., & Bragança, A. (May 2025). Transportation Infrastructure and Deforestation in the Amazon.
-     *Accepted for publication*, **Journal of Development Economics**. [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
-    Media:
-    [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
     
 ## Publications
 
 ------------------------------------------------------------------------
+
+-   Araújo, R, Assunção, J., & Bragança, A. (May 2025). Transportation Infrastructure and Deforestation in the Amazon.
+     *Accepted for publication*, **Journal of Development Economics**. [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
+    Media:
+    [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
 
 -   Bragança, A. & Dahis, R. (2022). Cutting Special Interests by the
     Roots: Evidence from Brazil's Amazon. **Journal of Public
