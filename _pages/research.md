@@ -25,7 +25,7 @@ editor_options:
 
 ------------------------------------------------------------------------
 
--   Araújo, R, Assunção, J., & Bragança, A. (May 2025). Transportation Infrastructure and Deforestation in the Amazon.
+-   Araújo, R, Assunção, J., & Bragança, A. (2025). Transportation Infrastructure and Deforestation in the Amazon.
      *Accepted for publication*, **Journal of Development Economics**. [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
     Media:
     [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
