@@ -16,7 +16,7 @@ editor_options:
 
 -   Borchers, N., Bragança, A., Conte Grand, M. The Long Run Effects of Forest Incentives in Guatemala. *Draft coming soon.*
 
--   Bragança, A., Britto, D., Fonseca, A., Moura, D., Sampaio, B., Sant'anna, A., Szerman, D. Decentralization and Land Taxation in Brazil. *Draft coming soon.*
+-   Bragança, A., Britto, D., Fonseca, A., Moura, D., Sampaio, B., Sant'anna, A., Szerman, D (September 2025). Decentralization, Tax Administration, and taxation: Evidence from Brazil's Rural Land Tax. *Submitted.* [PDF]()
 
 -   Adames, E., Araújo, R., Bragança, A., Costa, F., Gentile, F., Sant'anna, M. (January 2025). Quantifying the Carbon Preserved by Protected Areas in the Amazon *Submitted.*
 
@@ -26,13 +26,13 @@ editor_options:
 ------------------------------------------------------------------------
 
 -   Araújo, R, Assunção, J., & Bragança, A. (2025). Transportation Infrastructure and Deforestation in the Amazon.
-     *Accepted for publication*, **Journal of Development Economics**. [PDF](http://arthurbraganca7.github.io/files/Infrastructure_deforestation_GE.pdf). \
+     **Journal of Development Economics**, vol. 177, 103559. [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304387825001105). \
     Media:
     [VoxDev](https://voxdev.org/topic/energy-environment/deforestation-footprint-transportation-infrastructure-evidence-amazon)
 
 -   Bragança, A. & Dahis, R. (2022). Cutting Special Interests by the
     Roots: Evidence from Brazil's Amazon. **Journal of Public
-    Economics**, vol. 215, [Published
+    Economics**, vol. 215. [Published
     version](https://www.sciencedirect.com/science/article/pii/S0047272722001554).
     [Online
     appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0047272722001554-mmc1.pdf).
