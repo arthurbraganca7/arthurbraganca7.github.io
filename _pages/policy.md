@@ -14,6 +14,11 @@ editor_options:
 
 ------------------------------------------------------------------------
 
+-   World Bank (2025). Paraguay Country Climate and Development Report. (lead author)
+    [Link](https://openknowledge.worldbank.org/entities/publication/f4ffcb9a-a0e4-492a-ab8e-17e86198ab7e)
+    
+-   World Bank (2024). Guatemala’s Forest Incentive Programs: Impacts, Lessons, and Possibilities for Reform. (lead author)
+  
 -   Araújo, R & Bragança, A. (2022). Mining Royalties and Socioeconomic
     Development in the State of Pará. Rio de Janeiro: Climate Policy
     Initiative.
