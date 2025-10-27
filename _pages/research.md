@@ -14,11 +14,11 @@ editor_options:
 
 ------------------------------------------------------------------------
 
--   Borchers, N., Bragança, A., Conte Grand, M. (October 2025). The Long Run Effects of Forest Incentives in Guatemala. *Submitted.* [PDF](https://arthurbraganca7.github.io/files/Guatemala_FI.pdf) 
+-   Borchers, N., Bragança, A., Conte Grand, M. (October 2025). The Long Run Effects of Forest Incentives in Guatemala. [PDF](https://arthurbraganca7.github.io/files/Guatemala_FI.pdf)
+
+-   Adames, E., Araújo, R., Bragança, A., Costa, F., Gentile, F., Sant'anna, M. (October 2025). Quantifying the Carbon Preserved by Protected Areas in the Amazon. *Submitted.*
 
 -   Bragança, A., Britto, D., Fonseca, A., Moura, D., Sampaio, B., Sant'anna, A., Szerman, D. (September 2025). Decentralization, Tax Administration, and Taxation: Evidence from Brazil's Rural Land Tax. *Submitted.* [PDF](https://arthurbraganca7.github.io/files/ITR_paper.pdf)
-
--   Adames, E., Araújo, R., Bragança, A., Costa, F., Gentile, F., Sant'anna, M. (January 2025). Quantifying the Carbon Preserved by Protected Areas in the Amazon. *Under revision.*
 
     
 ## Publications
