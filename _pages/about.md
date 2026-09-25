@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior economist at [The World Bank](https://www.worldbank.org/). My worl lies at the intersection of research and policy in environment, climate, and agriculture. 
+I am a senior economist at [The World Bank](https://www.worldbank.org/), working at the intersection of research and policy. 
 
 I work with governments across Latin America to design, finance, and implement policies on forest conservation and restoration, sustainable agriculture, and climate and nature finance — and produce technical work, from policy reports to academic papers, that informs these efforts. 
 
